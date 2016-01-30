@@ -1,0 +1,7 @@
+name: SignGUI
+main: com.antarescraft.kloudy.signguilib.SignGUI
+version: 1.0
+author: Kloudy
+website: www.playminecraft.net
+
+depend: [ProtocolLib]
